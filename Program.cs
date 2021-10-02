@@ -71,7 +71,7 @@ class HelloSelenium { //Projeto de Automação de Testes//
     }
 
   static void Main() {
-    IWebDriver driver = new ChromeDriver(@"C:\Users\sofia\Downloads\chromedriver_win32(1)\");//Chamando o driver para ser iniciado//
+    IWebDriver driver = new ChromeDriver("@driver");//Chamando o driver para ser iniciado//
     HelloSelenium search = new HelloSelenium();
     search.Caso1(driver); //Chamando os metodos, caso 1//
     search.Caso2(driver);//caso2//
