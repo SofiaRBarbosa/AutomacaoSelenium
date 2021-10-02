@@ -1,0 +1,17 @@
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\obj\Debug\netcoreapp3.1\myApp.csproj.CoreCompileInputs.cache
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\obj\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\obj\Debug\netcoreapp3.1\myApp.genruntimeconfig.cache
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\sofia\OneDrive\Área de Trabalho\Projeto\myApp\obj\Debug\netcoreapp3.1\myApp.csproj.CopyComplete
