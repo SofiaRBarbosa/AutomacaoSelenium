@@ -1,4 +1,4 @@
-# AutomacaoSelenium
+# AutomacaoDeTestes
 Esta automação foi criada com o intuito de controlar a execução de testes no Google Chrome, foi utilizado .Net core, linguagem de programação #C e o Selenium, todos foram extremamentes importantes para a criação do mesmo.
 Os testes foram resumidos em pesquisas aleatória mas com características únicas.
 
