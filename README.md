@@ -1,15 +1,15 @@
 # AutomacaoDeTestes
-Esta automação foi criada com o intuito de controlar a execução de testes no Google Chrome, foi utilizado .Net core, linguagem de programação #C e o Selenium, todos foram extremamentes importantes para a criação do mesmo.
+Esta automação foi criada com o intuito de controlar a execução de testes no Google Chrome, foi utilizado .Net core, linguagem de programação C# e o Selenium, todos foram extremamentes importantes para a criação do mesmo.
 Os testes foram resumidos em pesquisas aleatória mas com características únicas.
 
 # Testes
-- Caso 01 'Horário de Agora': Pesquisa sobre a exata hora e a localização, a partir do momento que o driver for iniciado e realizar a pesquisa, neste caso, as horas podem mudar dependendo do momento do dia que o driver se iniciar, assim como a localização também dependendo do GPS, sendo mostrado a cidade, o bairro, e a cidade.
+- Caso 01 'Horário de Agora': Pesquisa sobre a exata hora e a localização, a partir do momento que o driver for iniciado e realizar a pesquisa, neste caso, as horas podem mudar dependendo do momento do dia que o driver se iniciar, assim como a localização também dependendo do GPS, sendo mostrado a cidade e o bairro.
 
 - Caso 02 'Csharp': Pesquisa sobre a linguagem de programação usada neste projeto, tem como sua característica de saída uma parte da resolução da Wikipedia apresentada na página de pesquisa.
 
 - Caso 03 'Dia de hoje': Pesquisa sobre a data de hoje, podendo ter suas alterações, afinal vai corresponder sempre com o dia atual, no caso sua saída é qual o dia da semana.
 
-- Caso 04 'Previsão do tempo': Nesta pesquisa não é apresentado os C° exatamente, sua saída é a probabilidade de chuva, a umidade correspondente e o vento em km/h.
+- Caso 04 'Previsão do tempo': Nesta pesquisa não é apresentado os °C exatamente, sua saída é a probabilidade de chuva, a umidade correspondente e o vento em km/h.
 
 - Caso 05 'Vacinação Covid': Esta pesquisa mostra o total da população que já foi vacinada contra a COVID-19, sendo cerca de 237mi de doses aplicadas, 90.9mi de pessoas totalmente vacinadas, sendo então 42,7%.
 
